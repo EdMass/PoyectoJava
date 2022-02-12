@@ -18,3 +18,9 @@ R
 "src/com/SofkaU/MayorIgualCero.java,b\0\b072dcc77f33bf4ae010f86c6e9e16c9cff778ca
 N
 src/com/SofkaU/DiaLaboral.java,e\6\e6e38c70d2192055229ef31af6b1f151c5ded5d3
+Q
+!src/com/SofkaU/CuentaVocales.java,6\3\634d7009674992a6e041717dc65fcaf9212eb94a
+Q
+!src/com/SofkaU/QuitaEspacios.java,7\8\78cf5bb3762f092fb1413551fb8a70b4b4655b80
+N
+src/com/SofkaU/HoraActual.java,3\c\3c2367b58a4b82449406a5b672eddb66473c307a

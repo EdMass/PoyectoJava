@@ -16,7 +16,8 @@ public class Main {
         //System.out.println(CuentaVocales.contar());
         //System.out.println(DiferenciadorPalabras.diferenciar());
         //System.out.println(HoraActual.darFechaHora());
-        System.out.println(HastaMil.contador());
+        //System.out.println(HastaMil.contador());
+        System.out.println(GestionCinema.menu());
 
 
 
