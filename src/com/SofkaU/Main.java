@@ -12,7 +12,8 @@ public class Main {
         //System.out.println(MayorIgualCero.devolver());
         //System.out.println(DiaLaboral.selector());
         //System.out.println(Cambialetras.modificador());
-        System.out.println(QuitaEspacios.remover());
+        //System.out.println(QuitaEspacios.remover());
+        System.out.println(CuentaVocales.contar());
 
 
 
