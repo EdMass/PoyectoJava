@@ -14,7 +14,9 @@ public class Main {
         //System.out.println(Cambialetras.modificador());
         //System.out.println(QuitaEspacios.remover());
         //System.out.println(CuentaVocales.contar());
-        System.out.println(DiferenciadorPalabras.diferenciar());
+        //System.out.println(DiferenciadorPalabras.diferenciar());
+        //System.out.println(HoraActual.darFechaHora());
+        System.out.println(HastaMil.contador());
 
 
 
