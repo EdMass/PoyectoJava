@@ -9,7 +9,12 @@ public class Main {
         //System.out.println(IVA21.precioIva());
         //System.out.println(ParesImparesWhile.imprimir());
         //System.out.println(ParesImparesFor.imprimir());
-        System.out.println(MayorIgualCero.devolver());
+        //System.out.println(MayorIgualCero.devolver());
+        //System.out.println(DiaLaboral.selector());
+        //System.out.println(Cambialetras.modificador());
+        System.out.println(QuitaEspacios.remover());
+
+
 
         }
     }
