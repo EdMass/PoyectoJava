@@ -26,6 +26,8 @@ public class Main {
         System.out.println(ele.aunmentoPorPeso());
         System.out.println(ele.precioFinal());
         */
+        Lavadora lava = new Lavadora(100,"negro",'f',50,35);
+        System.out.println(lava.precioFinal());
 
 
 

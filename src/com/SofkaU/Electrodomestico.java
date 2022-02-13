@@ -75,33 +75,26 @@ public class Electrodomestico {
         return precio;
         }
 
-    public double aunmentoPorConsumo() {
+    private double aunmentoPorConsumo() {
         aumento = 0;
         char consumo = this.consumoEnergia;
-        switch (consumo) {
-            case 'A':
-                aumento += 100;
-                break;
-            case 'B':
-                aumento += 80;
-                break;
-            case 'C':
-                aumento += 60;
-                break;
-            case 'D':
-                aumento += 50;
-                break;
-            case 'E':
-                aumento += 30;
-                break;
-            case 'F':
-                aumento += 10;
-                break;
+        if (consumo == 'A') {
+            aumento += 100;
+        } else if (consumo == 'B') {
+            aumento += 80;
+        } else if (consumo == 'C') {
+            aumento += 60;
+        } else if (consumo == 'D') {
+            aumento += 50;
+        } else if (consumo == 'E') {
+            aumento += 30;
+        } else if (consumo == 'F') {
+            aumento += 10;
         }
         return aumento;
     }
 
-    public double aunmentoPorPeso(){
+    private double aunmentoPorPeso(){
         aumento=0;
         double peso = this.peso;
         if( peso <= 19) aumento += 10;
