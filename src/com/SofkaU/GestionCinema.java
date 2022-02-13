@@ -1,5 +1,6 @@
 package com.SofkaU;
 
+import java.io.Console;
 import java.util.Scanner;
 
 public class GestionCinema {
@@ -33,10 +34,12 @@ public class GestionCinema {
                 break;
             default:
                 System.out.println("OPCION INCORRECTO");
+                GestionCinema.menu();
         }
     }
 
-     static String menu (){
+
+    static String menu (){
 
         Scanner entrada = new Scanner(System.in);
         System.out.println("****** GESTION CINEMATOGRÁFICA ********" +"\n" +
