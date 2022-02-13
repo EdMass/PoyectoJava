@@ -24,3 +24,9 @@ Q
 !src/com/SofkaU/QuitaEspacios.java,7\8\78cf5bb3762f092fb1413551fb8a70b4b4655b80
 N
 src/com/SofkaU/HoraActual.java,3\c\3c2367b58a4b82449406a5b672eddb66473c307a
+Q
+!src/com/SofkaU/GestionCinema.java,3\6\360479dd762199514a1970531f4287cfbd20e130
+L
+src/com/SofkaU/HastaMil.java,c\a\caffa4745e379eb770eb5ea0020ff0b8a518c0ac
+Y
+)src/com/SofkaU/DiferenciadorPalabras.java,b\a\ba98ffd89a71125a7ff63bb913b94af9303f46c9

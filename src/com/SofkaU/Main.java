@@ -19,7 +19,7 @@ public class Main {
         //System.out.println(HastaMil.contador());
         //System.out.println(GestionCinema.menu());
 
-        System.out.println(Persona.generaNumeros());
+        //System.out.println(Persona.generaLetras());
 
 
 
