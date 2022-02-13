@@ -18,8 +18,15 @@ public class Main {
         //System.out.println(HoraActual.darFechaHora());
         //System.out.println(HastaMil.contador());
         //System.out.println(GestionCinema.menu());
-
         //System.out.println(Persona.generaLetras());
+        //System.out.println(Electrodomestico.comprobarColor("azul"));
+        /*Electrodomestico ele = new Electrodomestico(100,"azul",'c',19);
+        System.out.println(ele.toString());
+        System.out.println(ele.aunmentoPorConsumo());
+        System.out.println(ele.aunmentoPorPeso());
+        System.out.println(ele.precioFinal());
+        */
+
 
 
 

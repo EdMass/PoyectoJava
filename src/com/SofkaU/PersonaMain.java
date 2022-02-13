@@ -45,7 +45,5 @@ public class PersonaMain {
         System.out.println(persona2.toString());
         System.out.println(persona3.toString());
 
-
-
     }
 }
